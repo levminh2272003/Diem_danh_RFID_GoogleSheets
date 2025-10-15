@@ -76,4 +76,4 @@ Người quản lý có thể theo dõi **danh sách điểm danh ngay lập t�
 - Tích hợp **nhận diện khuôn mặt** để tăng tính bảo mật.  
 - Xây dựng **web dashboard** hiển thị thống kê chuyên cần.  
 - Gửi thông báo **qua Email hoặc Telegram** khi sinh viên điểm danh.  
-- Cải thiện bảo mật bằng **Google OAuth 2.0** hoặc **token xác thực riêng**.  
+- Cải thiện bảo mật bằng **Google OAuth 2.0** hoặc **token xác thực riêng**.
