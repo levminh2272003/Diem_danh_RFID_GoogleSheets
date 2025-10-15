@@ -63,11 +63,11 @@ Người quản lý có thể theo dõi **danh sách điểm danh ngay lập t�
 
 ## Kết quả đạt được  
 
-✅ Hệ thống hoạt động ổn định với hai chế độ điểm danh: **RFID** và **Keypad**.  
-✅ Dữ liệu được **xác thực trước khi ghi**, đảm bảo chính xác và tránh gian lận.  
-✅ **Đồng bộ hai chiều** giữa ESP32 và Google Sheets (ESP32 ↔ Sheets).  
-✅ Hiển thị thông tin sinh viên, thời gian, trạng thái trên **màn hình OLED**.  
-✅ Có thể mở rộng quy mô cho **nhiều lớp học, doanh nghiệp hoặc tổ chức**.  
+- Hệ thống hoạt động ổn định với hai chế độ điểm danh: **RFID** và **Keypad**.  
+- Dữ liệu được **xác thực trước khi ghi**, đảm bảo chính xác và tránh gian lận.  
+- **Đồng bộ hai chiều** giữa ESP32 và Google Sheets (ESP32 ↔ Sheets).  
+- Hiển thị thông tin sinh viên, thời gian, trạng thái trên **màn hình OLED**.  
+- Có thể mở rộng quy mô cho **nhiều lớp học, doanh nghiệp hoặc tổ chức**.  
 
 ---
 
